@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Harshraj51/Leetcode_Problem/tree/master/0345-reverse-vowels-of-a-string) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Harshraj51/Leetcode_Problem/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Harshraj51/Leetcode_Problem/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Harshraj51/Leetcode_Problem/tree/master/3331-find-subtree-sizes-after-changes) |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Harshraj51/Leetcode_Problem/tree/master/3331-find-subtree-sizes-after-changes) |
+## Two Pointers
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Harshraj51/Leetcode_Problem/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
